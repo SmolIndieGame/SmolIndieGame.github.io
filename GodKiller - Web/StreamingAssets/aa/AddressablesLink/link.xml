@@ -1,0 +1,50 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Data.CharacterData" preserve="all" />
+    <type fullname="Data.CharacterSkillData" preserve="all" />
+    <type fullname="SpritePos" preserve="all" />
+    <type fullname="SPUM_HorseSpriteList" preserve="all" />
+    <type fullname="SPUM_Prefabs" preserve="all" />
+    <type fullname="SPUM_SpriteList" preserve="all" />
+    <type fullname="Scripts.SkillBlock" preserve="nothing" serialized="true" />
+    <type fullname="Scripts.SummonBlock" preserve="nothing" serialized="true" />
+    <type fullname="Skills.AnimationAbility" preserve="nothing" serialized="true" />
+    <type fullname="Skills.ScriptedSkill" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="OutlineFx, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="OutlineFx.OutlineFx" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.Rendering.SortingGroup" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SmolIndieGame.RPG">
+    <type fullname="SmolIndieGame.RPG.Scripting.LoopBlock" preserve="nothing" serialized="true" />
+    <type fullname="SmolIndieGame.RPG.Scripting.RandomBlock" preserve="nothing" serialized="true" />
+    <type fullname="SmolIndieGame.RPG.StatSystem.StatData" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>

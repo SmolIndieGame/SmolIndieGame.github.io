@@ -39,12 +39,10 @@
     <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
     <type fullname="UnityEngine.Transform" preserve="all" />
-    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="SmolIndieGame.RPG">
-    <type fullname="SmolIndieGame.RPG.Scripting.LoopBlock" preserve="nothing" serialized="true" />
-    <type fullname="SmolIndieGame.RPG.Scripting.RandomBlock" preserve="nothing" serialized="true" />
+    <type fullname="SmolIndieGame.RPG.Scripting.ScriptBlocks.LoopBlock" preserve="nothing" serialized="true" />
+    <type fullname="SmolIndieGame.RPG.Scripting.ScriptBlocks.RandomBlock" preserve="nothing" serialized="true" />
     <type fullname="SmolIndieGame.RPG.StatSystem.StatData" preserve="nothing" serialized="true" />
   </assembly>
 </linker>

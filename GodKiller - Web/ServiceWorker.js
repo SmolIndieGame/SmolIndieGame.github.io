@@ -1,4 +1,4 @@
-const cacheName = "SmolIndieGame-GodKiller-2.0.1";
+const cacheName = "SmolIndieGame-GodKiller-2.0.2";
 const contentToCache = [
     "Build/GodKiller - Web.loader.js",
     "Build/GodKiller - Web.framework.js.unityweb",
